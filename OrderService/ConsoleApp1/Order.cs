@@ -14,4 +14,4 @@ namespace SharedModels
         public int Quantity { get; set; }
     }
 }
-}
+
