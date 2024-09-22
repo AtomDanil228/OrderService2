@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SharedModels2;
 
-
 namespace ProductService.Controllers
 {
     [Route("api/[controller]")]

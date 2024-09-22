@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\SharedModels.csproj" />
+    <ProjectReference Include="..\SharedModels2\SharedModels2.csproj" />
   </ItemGroup>
 
 </Project>
